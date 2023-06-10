@@ -1,4 +1,5 @@
 # zRAM Swap Manager
+Idiomas disponiveis: [Inglês](/README.md)
 
 ## Antes de Começar
     Este programa vem com absolutamente nenhuma garantia.
