@@ -78,7 +78,8 @@
 
 
 ## Notes/Tips
-    On some Android systems, one may want to delay initialization to ensure defaults and/or third party tweaks are overridden. This can be done by adding `sleep 90` or a more elaborate logic to config.
+    On some Android systems, one may want to delay initialization to ensure defaults and/or third party tweaks are overridden. 
+    This can be done by adding `sleep 90` or a more elaborate logic to config.
 
 ## Links
 
