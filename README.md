@@ -66,7 +66,7 @@ Available languages: [Portuguese](/README-PT.md)
     Run zsm or zram-swap-manager for help.
 
 ## Benchmarks
-|    Compressor|	version   | Ratio	| Compression | Decompression |
+|    Compressor|	Version   | Ratio	| Compression | Decompression |
 |---------|---------|--------|-------------|---------------|
 |   zstd  | 1.3.4 -1 | 2.877	|   470 MB/s	|   1380 MB/s   |
 |   zlib  | 1.2.11 -1| 2.743  |   110 MB/s  |   400 MB/s    |
