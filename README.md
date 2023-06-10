@@ -1,4 +1,5 @@
 # zRAM Swap Manager
+Available languages: [Portuguese](/README-PT.md)
 
 ## Foreword
     This program comes with absolutely no warranty.
